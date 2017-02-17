@@ -1,0 +1,20 @@
+{
+  "name": "resume-data",
+  "version": "1.0.0",
+  "description": "Resume JSON for use with portfolio/resume/bio projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackkoppa/resume-data.git"
+  },
+  "author": "Jack Koppa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackkoppa/resume-data/issues"
+  },
+  "homepage": "https://github.com/jackkoppa/resume-data#readme",
+  "devDependencies": {
+    "grunt": "~1.0.0",
+    "grunt-jsonlint": "^1.1.0",
+    "grunt-strip-json-comments": "^2.2.0"
+  }
+}

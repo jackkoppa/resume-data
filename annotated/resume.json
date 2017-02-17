@@ -1,6 +1,6 @@
 {
 "work" : {
-	"jobs": [{
+	"jobs": [{ // Self-Employed
 		"employer": "Self-Employed",
 		"title": "Web Developer",
 		"location": "Milwaukee, WI, US",
@@ -17,7 +17,7 @@
 			"http://jackkoppa.com"
 		]
 	},
-	{
+	{ // Embark China
 		"employer": "Embark China",
 		"title": "Program Manager",
 		"location": "Shanghai, China",

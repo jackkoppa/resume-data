@@ -1,6 +1,6 @@
 {
 "work" : {
-	"jobs": [{
+	"jobs": [{// Self-Employed
 		"employer": "Self-Employed",
 		"title": "Web Developer",
 		"location": "Milwaukee, WI, US",
@@ -17,7 +17,7 @@
 			"http://jackkoppa.com"
 		]
 	},
-	{
+	{// Embark China
 		"employer": "Embark China",
 		"title": "Program Manager",
 		"location": "Shanghai, China",
@@ -33,7 +33,7 @@
 			"http://embarkchina.org/En_US/"
 		]
 	},
-	{
+	{// Power Test Inc.
 		"employer": "Power Test Inc.",
 		"title": "Contract Web Developer",
 		"location": "Milwaukee, WI, US",
@@ -49,7 +49,7 @@
 			"http://jackkoppa.com/work/power-test-inc/"
 		]
 	},
-	{
+	{// USC Marshall School of Business
 		"employer": "USC Marshall School of Business",
 		"title": "Web Developer",
 		"location": "Los Angeles, CA, US",
@@ -65,7 +65,7 @@
 			"http://jackkoppa.com/work/apbo/"
 		]
 	},
-	{
+	{// US-China Clean Tech Center
 		"employer": "US-China Clean Tech Center",
 		"title": "Web + Research Intern",
 		"location": "Los Angeles, CA, US",
@@ -81,7 +81,7 @@
 			"http://jackkoppa.com/work/global-clean-vehicle/"
 		]
 	},
-	{
+	{// USC School of Cinematic Arts
 		"employer": "USC School of Cinematic Arts",
 		"title": "Web Designer",
 		"location": "Los Angeles, CA, US",
@@ -95,7 +95,7 @@
 		"description": "Designed in-house event/conference website (\"the 9th week @ SCA\") using WordPress theme, while making custom adjustments to allow for participant signups, schedule updates, and easy dashboard management of speakers and sessions. In addition, made design & development changes to an interim main website for the Media Arts + Practice department, on a very short timeline required by server changes.",
 		"relatedURLs": []
 	},
-	{
+	{// Pentair
 		"employer": "Pentair",
 		"title": "Product Management Intern",
 		"location": "Milwaukee, WI, US",
