@@ -4,8 +4,9 @@
 			"employer": "Self-Employed",
 			"title": "Web Developer",
 			"location": "Milwaukee, WI, US",
-			"dates": {
-				"startMonth": 02,
+			"dateString": "Jan 2017 - present",
+			"dateObj": {
+				"startMonth": 1,
 				"startYear": 2017,
 				"endMonth": null,
 				"endYear": null
@@ -15,9 +16,14 @@
 		},
 		{
 			"employer": "Embark China",
-			"title": "Web Developer",
-			"location": "Milwaukee, WI, US",
-			"dates": "Feb 2017 - present",
+			"title": "Program Manager",
+			"location": "Shanghai, China",
+			"dates": {
+				"startMonth": 10,
+				"startYear": 2016,
+				"endMonth": 1,
+				"endYear": 2017
+			},
 			"description": "description"
 		}]
 	},
