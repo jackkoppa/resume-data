@@ -12,3 +12,9 @@ jspm_packages
 
 # Optional npm cache directory
 .npm
+
+# Keep videos locally only, to minimize repo size
+video
+
+# Responsive images folder; can be generated using `grunt images`
+img_responsive
