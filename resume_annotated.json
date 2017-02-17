@@ -1,4 +1,10 @@
 {
+/*
+Using grunt-strip-json-comments allows for this file to be annotated
+Important for working with a text editor that can collapse large objects
+when not editing them
+Upon saving, run `grunt json`, which will remove comments & lint new file
+*/
 "work" : {
 	"jobs": [{// Self-Employed
 		"employer": "Self-Employed",
@@ -124,6 +130,7 @@
 		"relatedURLs": []
 	}]
 },
+
 "projects": {
 	"projects": [{// Chanje
 		"title": "Chanje",
