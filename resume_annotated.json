@@ -239,14 +239,14 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
 				"short": "Commercial electric vehicle company launching their product line, and needed a professional, modern site to explain mission, team, and upcoming product line. Worked with Chanje's marketing team according to rough design guidelines, picked Zephyr WordPress theme as a base, and created Home, About, Team, Impact, Purpose, and Contact pages, as well as a Product template and form integration for customers to make vehicle reservations. Continuing to work with Chanje as functionality and available models increase, focusing on conveying the message of low-emission vehicles for the commercial market.",
 				"long": null
 			},
-			"imageDir": "chanje",
+			"imageDir": "pixbox",
 			"images" : [
-				"chanje_home.jpg",
-				"chanje_models.jpg",
-				"chanje_team.jpg"
-				"chanje_impact.jpg",
-				"chanje_key_features.jpg",
-				"chanje_connect.jpg",
+				"pixbox_album.jpg",
+				"pixbox_dashboard.jpg",
+				"pixbox_invite_members.jpg",
+				"pixbox_login.jpg",
+				"pixbox_mobile.jpg",
+				"pixbox_new_album.jpg"
 			],
 			"relatedURLs": [
 				"http://chanje.us"
