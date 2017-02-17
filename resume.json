@@ -1,100 +1,183 @@
 {
-	"work" : {
-		"jobs": [{
-			"employer": "Self-Employed",
-			"title": "Web Developer",
-			"location": "Milwaukee, WI, US",
-			"dateString": "Jan 2017 - present",
-			"dateObj": {
-				"startMonth": 1,
-				"startYear": 2017,
-				"endMonth": null,
-				"endYear": null
-			},
-			"currentJob": true,
-			"description": "Freelance web developer on a variety of projects, covering front-end development, design, and content management. Heavy use of WordPress, providing clients with sites from scratch, theme customization, and additional functionality. Especially focused on high-quality companies working in clean technology or environmental policy, where field-specific knowledge & marketing experience can be best utilized for environmental change."
+"work" : {
+	"jobs": [{
+		"employer": "Self-Employed",
+		"title": "Web Developer",
+		"location": "Milwaukee, WI, US",
+		"dateString": "Jan 2017 - present",
+		"dateObj": {
+			"startMonth": 1,
+			"startYear": 2017,
+			"endMonth": null,
+			"endYear": null
 		},
-		{
-			"employer": "Embark China",
-			"title": "Program Manager",
-			"location": "Shanghai, China",
-			"dates": {
-				"startMonth": 10,
-				"startYear": 2016,
-				"endMonth": 1,
-				"endYear": 2017
-			},
-			"description": "description"
-		}]
-	},
-	"projects": {
-		"projects": [{
-			"title": "Chanje",
-			"dates": "Jan 2016 - Feb 2017",
-			"description": "test",
-			"images" : [
-				"img/chanje1.jpg",
-				"img/chanje2.jpg"
-			]
-		},{
-			"title": "Chanje",
-			"dates": "Jan 2016 - Feb 2017",
-			"description": "test",
-			"images" : [
-				"img/chanje1.jpg",
-				"img/chanje2.jpg"
-			]
-		}]
-	},
-	"bio": {
-		"name": "Jack Koppa",
-		"role": "Web Developer | Cleantech Advocate",
-		"welcomeMessage": "Hi - I make things with a purpose.",
-		"biopic": "img/jack_koppa_profile.jpg",
-		"contacts": {
-			"mobile": "+1 650-761-1414",
-			"email": "hello@jackkoppa.com",
-			"github": "jackkoppa",
-			"twitter": "jackpkoppa",
-			"linkedin": "jackkoppa",
-			"location": "Milwaukee, WI, US"
-		},
-		"skills": [
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"WordPress",
-			"PHP",
-			"MySQL",
-			"SCSS",
-			"Grunt",
-			"Backbone.js",
-			"React.js"
+		"currentJob": true,
+		"description": "Developing & designing client websites for a variety of purposes. Heavy focus on WordPress development, front-end technologies, and modern design. Work with clients at various points in their process: providing all design and development for sites from scratch, converting mock-ups to full-featured sites, or adding functionality/improving design for existing projects. Focused especially on companies in clean technology & environmental policy, where field-specific knowledge & marketing experience can be best utilized for environmental change.",
+		"relatedURLs": [
+			"http://jackkoppa.com"
 		]
 	},
-	"education": {
-		"schools": [{
-			"name": "University of Southern California",
-			"city": "Los Angeles, CA, US",
-			"degree": "BA",
-			"major": ["Environmental Studies","Chinese"],
-			"minor": ["Digital Studies"],
-			"dates": "Aug 2012 - May 2016",
-			"url": "https://dornsife.usc.edu/"
+	{
+		"employer": "Embark China",
+		"title": "Program Manager",
+		"location": "Shanghai, China",
+		"dateString": "Sep 2016 - Jan 2017",
+		"dateObj": {
+			"startMonth": 10,
+			"startYear": 2016,
+			"endMonth": 1,
+			"endYear": 2017
 		},
-		{
-			"name": "Capital Normal University",
-			"city": "Beijing, China",
-			"degree": "Study Abroad",
-			"major": ["Chinese Language"],
-			"dates": "May 2014 - July 2014",
-			"url": "https://dornsife.usc.edu/ealc/beijing-program/"
-		}],
-		"onlineCourses": [{
-			"title": "Front-End Web Developer Nanodegree",
-			"school": "Udacity",
-			"dates": "Jan 2016 - present",
-			"url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
-		}]
-	}
+		"description": "Design extracurricular programs for Chinese high school students, akin to experiences at the best US high schools. Create curricula in specific fields (esp. environmental science & web development) and facilitate a capstone project in that field, with a US partner. Provide a valuable int'l experience for our students, and dedicated, bright resources for our American collaborators.",
+		"relatedURLs": [
+			"http://embarkchina.org/En_US/"
+		]
+	},
+	{
+		"employer": "Power Test Inc.",
+		"title": "Contract Web Developer",
+		"location": "Milwaukee, WI, US",
+		"dateString": "May 2016 - Jun 2016",
+		"dateObj": {
+			"startMonth": 5,
+			"startYear": 2016,
+			"endMonth": 6,
+			"endYear": 2016
+		},
+		"description": "Served as a senior web developer & consultant for a 3 week period, after the company transitioned to a WordPress site for SEO purposes, but was left with poor functionality, usability, and styling, and wanted to make significant immediate improvements, with future changes moved in-house. In 3 weeks I revamped the site’s design, customized their dashboards, implemented a translation system, developed a full salesperson bio system & personalized contact flow, while training an in-house marketing specialist to make future changes. The international flow, from homepage to info to contact, was a particular priority, and was greatly improved with session/cookie-specific IP recongition, with SEO-compatible local translated sites and salesperson-specific inquiries. The company is very happy with the changes, the in-house marketing specialist able to handle future updates, and online inquiries began rising within a month of completion.",
+		"relatedURLs": [
+			"http://jackkoppa.com/work/power-test-inc/"
+		]
+	},
+	{
+		"employer": "USC Marshall School of Business",
+		"title": "Web Developer",
+		"location": "Los Angeles, CA, US",
+		"dateString": "Mar 2015 - May 2016",
+		"dateObj": {
+			"startMonth": 3,
+			"startYear": 2015,
+			"endMonth": 5,
+			"endYear": 2016
+		},
+		"description": "Developed & designed WordPress event site for the Marshall School's Asia Pacific Business Outlook conference (apboconference.com), creating custom pages for the event's 350+ attendees and 70+ speakers. Also assist with marketing and logistics for the 2 day event, along with other programs for the IBEAR MBA Program at Marshall.",
+		"relatedURLs": [
+			"http://jackkoppa.com/work/apbo/"
+		]
+	},
+	{
+		"employer": "US-China Clean Tech Center",
+		"title": "Web + Research Intern",
+		"location": "Los Angeles, CA, US",
+		"dateString": "Sep 2014 - Jan 2016",
+		"dateObj": {
+			"startMonth": 10,
+			"startYear": 2014,
+			"endMonth": 1,
+			"endYear": 2016
+		},
+		"description": "Assisted in the design and development of UCCTC's new, cutting-edge B2B database platform for clean tech companies in the US and China. Worked on primary website (uschinacleantech.org), updating style, content, and functionality, while also assisting with websites for two new projects for the center: the Global Clean Vehicle Summit (globalcleanvehicle.org), and the Greenmaker Space, for Chinese cleantech companies seeking incubation assistance in the US (greenmaker.space). Worked in the bilingual Los Angeles office, while interacting heavily with the Beijing office.",
+		"relatedURLs": [
+			"http://jackkoppa.com/work/global-clean-vehicle/"
+		]
+	},
+	{
+		"employer": "USC School of Cinematic Arts",
+		"title": "Web Designer",
+		"location": "Los Angeles, CA, US",
+		"dateString": "Dec 2014 - Dec 2015",
+		"dateObj": {
+			"startMonth": 12,
+			"startYear": 2014,
+			"endMonth": 12,
+			"endYear": 2015
+		},
+		"description": "Designed in-house event/conference website (\"the 9th week @ SCA\") using WordPress theme, while making custom adjustments to allow for participant signups, schedule updates, and easy dashboard management of speakers and sessions. In addition, made design & development changes to an interim main website for the Media Arts + Practice department, on a very short timeline required by server changes.",
+		"relatedURLs": []
+	},
+	{
+		"employer": "Pentair",
+		"title": "Product Management Intern",
+		"location": "Milwaukee, WI, US",
+		"dateString": "May 2013 - Aug 2013",
+		"dateObj": {
+			"startMonth": 5,
+			"startYear": 2013,
+			"endMonth": 8,
+			"endYear": 2013
+		},
+		"description": "As a product manager, updated a $2.6 million product line to better serve end consumers, identifying proper use instructions and new corporate branding. In this and other summer projects, worked with virtually all departments in Pentair's Residential, Commercial, & Industrial vertical, including facilities in China & Mexico. Led a a cross-functional team of 5 in Pentair's inaugural Cross-Charge Challenge, developing a complete marketing strategy for a high-potential product, to be implemented over the next year.",
+		"relatedURLs": []
+	}]
+},
+"projects": {
+	"projects": [{
+		"title": "Chanje",
+		"dates": "Jan 2016 - Feb 2017",
+		"description": "test",
+		"images" : [
+			"img/chanje1.jpg",
+			"img/chanje2.jpg"
+		]
+	},{
+		"title": "Chanje",
+		"dates": "Jan 2016 - Feb 2017",
+		"description": "test",
+		"images" : [
+			"img/chanje1.jpg",
+			"img/chanje2.jpg"
+		]
+	}]
+},
+"bio": {
+	"name": "Jack Koppa",
+	"role": "Web Developer | Cleantech Advocate",
+	"welcomeMessage": "Hi - I make things with a purpose.",
+	"biopic": "img/jack_koppa_profile.jpg",
+	"contacts": {
+		"mobile": "+1 650-761-1414",
+		"email": "hello@jackkoppa.com",
+		"github": "jackkoppa",
+		"twitter": "jackpkoppa",
+		"linkedin": "jackkoppa",
+		"location": "Milwaukee, WI, US"
+	},
+	"skills": [
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"WordPress",
+		"PHP",
+		"MySQL",
+		"SCSS",
+		"Grunt",
+		"Backbone.js",
+		"React.js"
+	]
+},
+"education": {
+	"schools": [{
+		"name": "University of Southern California",
+		"city": "Los Angeles, CA, US",
+		"degree": "BA",
+		"major": ["Environmental Studies","Chinese"],
+		"minor": ["Digital Studies"],
+		"dates": "Aug 2012 - May 2016",
+		"url": "https://dornsife.usc.edu/"
+	},
+	{
+		"name": "Capital Normal University",
+		"city": "Beijing, China",
+		"degree": "Study Abroad",
+		"major": ["Chinese Language"],
+		"dates": "May 2014 - July 2014",
+		"url": "https://dornsife.usc.edu/ealc/beijing-program/"
+	}],
+	"onlineCourses": [{
+		"title": "Front-End Web Developer Nanodegree",
+		"school": "Udacity",
+		"dates": "Jan 2016 - present",
+		"url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
+	}]
+}
 }
