@@ -26,4 +26,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-jsonlint');
 
     grunt.registerTask('default', ['stripJsonComments','jsonlint']);
+    grunt.registerTask('json', ['stripJsonComments','jsonlint']);
 };
