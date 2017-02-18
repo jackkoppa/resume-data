@@ -11,13 +11,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Web Developer",
         "location": "Milwaukee, WI, US",
         "date": {
-            "string": "Jan 2017 - present",
-            "obj": {
-                "startMonth": 1,
-                "startYear": 2017,
-                "endMonth": null,
-                "endYear": null
-            }
+            "startMonth": 1,
+            "startYear": 2017,
+            "endMonth": null,
+            "endYear": null
         },
         "currentJob": true,
         "description": "Developing & designing client websites for a variety of purposes. Heavy focus on WordPress development, front-end technologies, and modern design. Work with clients at various points in their process: providing all design and development for sites from scratch, converting mock-ups to full-featured sites, or adding functionality/improving design for existing projects. Focused especially on companies in clean technology & environmental policy, where field-specific knowledge & marketing experience can be best utilized for environmental change.",
@@ -30,13 +27,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Program Manager",
         "location": "Shanghai, China",
         "date": {
-            "string": "Sep 2016 - Jan 2017",
-            "obj": {
-                "startMonth": 10,
-                "startYear": 2016,
-                "endMonth": 1,
-                "endYear": 2017
-            }
+            "startMonth": 10,
+            "startYear": 2016,
+            "endMonth": 1,
+            "endYear": 2017
         },
         "description": "Design extracurricular programs for Chinese high school students, akin to experiences at the best US high schools. Create curricula in specific fields (esp. environmental science & web development) and facilitate a capstone project in that field, with a US partner. Provide a valuable int'l experience for our students, and dedicated, bright resources for our American collaborators.",
         "urls": [
@@ -48,13 +42,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Contract Web Developer",
         "location": "Milwaukee, WI, US",
         "date": {
-            "string": "May 2016 - Jun 2016",
-            "obj": {
-                "startMonth": 5,
-                "startYear": 2016,
-                "endMonth": 6,
-                "endYear": 2016
-            }
+            "startMonth": 5,
+            "startYear": 2016,
+            "endMonth": 6,
+            "endYear": 2016
         },
         "description": "Served as a senior web developer & consultant for a 3 week period, after the company transitioned to a WordPress site for SEO purposes, but was left with poor functionality, usability, and styling, and wanted to make significant immediate improvements, with future changes moved in-house. In 3 weeks I revamped the site’s design, customized their dashboards, implemented a translation system, developed a full salesperson bio system & personalized contact flow, while training an in-house marketing specialist to make future changes. The international flow, from homepage to info to contact, was a particular priority, and was greatly improved with session/cookie-specific IP recongition, with SEO-compatible local translated sites and salesperson-specific inquiries. The company is very happy with the changes, the in-house marketing specialist able to handle future updates, and online inquiries began rising within a month of completion.",
         "urls": [
@@ -66,13 +57,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Web Developer",
         "location": "Los Angeles, CA, US",
         "date": {
-            "string": "Mar 2015 - May 2016",
-            "obj": {
-                "startMonth": 3,
-                "startYear": 2015,
-                "endMonth": 5,
-                "endYear": 2016
-            }
+            "startMonth": 3,
+            "startYear": 2015,
+            "endMonth": 5,
+            "endYear": 2016
         },
         "description": "Developed & designed WordPress event site for the Marshall School's Asia Pacific Business Outlook conference (apboconference.com), creating custom pages for the event's 350+ attendees and 70+ speakers. Also assist with marketing and logistics for the 2 day event, along with other programs for the IBEAR MBA Program at Marshall.",
         "urls": [
@@ -84,13 +72,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Web + Research Intern",
         "location": "Los Angeles, CA, US",
         "date": {
-            "string": "Sep 2014 - Jan 2016",
-            "obj": {
-                "startMonth": 10,
-                "startYear": 2014,
-                "endMonth": 1,
-                "endYear": 2016
-            }
+            "startMonth": 10,
+            "startYear": 2014,
+            "endMonth": 1,
+            "endYear": 2016
         },
         "description": "Assisted in the design and development of UCCTC's new, cutting-edge B2B database platform for clean tech companies in the US and China. Worked on primary website (uschinacleantech.org), updating style, content, and functionality, while also assisting with websites for two new projects for the center: the Global Clean Vehicle Summit (globalcleanvehicle.org), and the Greenmaker Space, for Chinese cleantech companies seeking incubation assistance in the US (greenmaker.space). Worked in the bilingual Los Angeles office, while interacting heavily with the Beijing office.",
         "urls": [
@@ -102,13 +87,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Web Designer",
         "location": "Los Angeles, CA, US",
         "date": {
-            "string": "Dec 2014 - Dec 2015",
-            "obj": {
-                "startMonth": 12,
-                "startYear": 2014,
-                "endMonth": 12,
-                "endYear": 2015
-            }
+            "startMonth": 12,
+            "startYear": 2014,
+            "endMonth": 12,
+            "endYear": 2015
         },
         "description": "Designed in-house event/conference website (\"the 9th week @ SCA\") using WordPress theme, while making custom adjustments to allow for participant signups, schedule updates, and easy dashboard management of speakers and sessions. In addition, made design & development changes to an interim main website for the Media Arts + Practice department, on a very short timeline required by server changes.",
         "urls": []
@@ -118,13 +100,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Product Management Intern",
         "location": "Milwaukee, WI, US",
         "date": {
-            "string": "May 2013 - Aug 2013",
-            "obj": {
-                "startMonth": 5,
-                "startYear": 2013,
-                "endMonth": 8,
-                "endYear": 2013
-            }
+            "startMonth": 5,
+            "startYear": 2013,
+            "endMonth": 8,
+            "endYear": 2013
         },
         "description": "As a product manager, updated a $2.6 million product line to better serve end consumers, identifying proper use instructions and new corporate branding. In this and other summer projects, worked with virtually all departments in Pentair's Residential, Commercial, & Industrial vertical, including facilities in China & Mexico. Led a a cross-functional team of 5 in Pentair's inaugural Cross-Charge Challenge, developing a complete marketing strategy for a high-potential product, to be implemented over the next year.",
         "urls": []
@@ -139,13 +118,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
     "projects": [{// Chanje
         "title": "Chanje",
         "date": {
-            "string": "Jan 2017",
-            "obj": {
-                "startMonth": 1,
-                "startYear": 2017,
-                "endMonth": 1,
-                "endYear": 2017
-            }
+            "startMonth": 1,
+            "startYear": 2017,
+            "endMonth": 1,
+            "endYear": 2017
         },
         "skills": [
             "WordPress",
@@ -176,13 +152,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
     {// Power Test
         "title": "Power Test",
         "date": {
-            "string": "Jun 2016",
-            "obj": {
-                "startMonth": 6,
-                "startYear": 2016,
-                "endMonth": 6,
-                "endYear": 2016
-            }
+            "startMonth": 6,
+            "startYear": 2016,
+            "endMonth": 6,
+            "endYear": 2016
         },
         "skills": [
             "WordPress",
@@ -218,13 +191,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
     {// PixBox
         "title": "PixBox",
         "date": {
-            "string": "Sep 2015 - Dec 2015",
-            "obj": {
-                "startMonth": 9,
-                "startYear": 2015,
-                "endMonth": 12,
-                "endYear": 2015
-            }
+            "startMonth": 9,
+            "startYear": 2015,
+            "endMonth": 12,
+            "endYear": 2015
         },
         "skills": [
             "JavaScript",
@@ -267,13 +237,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
     {// FrackMented
         "title": "FrackMented",
         "date": {
-            "string": "Nov 2013 - Dec 2013",
-            "obj": {
-                "startMonth": 11,
-                "startYear": 2013,
-                "endMonth": 12,
-                "endYear": 2013
-            }
+            "startMonth": 11,
+            "startYear": 2013,
+            "endMonth": 12,
+            "endYear": 2013
         },
         "skills": [
             "HTML",
@@ -305,13 +272,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
     {// Peaks and Professors
         "title": "Peaks and Professors",
         "date": {
-            "string": "Aug 2013 - May 2016",
-            "obj": {
-                "startMonth": 8,
-                "startYear": 2013,
-                "endMonth": 5,
-                "endYear": 2016
-            }
+            "startMonth": 8,
+            "startYear": 2013,
+            "endMonth": 5,
+            "endYear": 2016
         },
         "skills": [
             "WordPress",
@@ -377,13 +341,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "major": ["Environmental Studies","Chinese"],
         "minor": ["Digital Studies"],
         "date": {
-            "string": "Aug 2012 - May 2016",
-            "obj": {
-                "startMonth": 8,
-                "startYear": 2012,
-                "endMonth": 5,
-                "endYear": 2016
-            }
+            "startMonth": 8,
+            "startYear": 2012,
+            "endMonth": 5,
+            "endYear": 2016
         },
         "url": "https://dornsife.usc.edu/"
     },
@@ -393,13 +354,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "degree": "Study Abroad",
         "major": ["Chinese Language"],
         "date": {
-            "string": "May 2014 - Jul 2014",
-            "obj": {
-                "startMonth": 5,
-                "startYear": 2014,
-                "endMonth": 7,
-                "endYear": 2014
-            }
+            "startMonth": 5,
+            "startYear": 2014,
+            "endMonth": 7,
+            "endYear": 2014
         },
         "url": "https://dornsife.usc.edu/ealc/beijing-program/"
     }],
@@ -407,13 +365,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "title": "Front-End Web Developer Nanodegree",
         "school": "Udacity",
         "date": {
-            "string": "Jan 2017 - present",
-            "obj": {
-                "startMonth": 1,
-                "startYear": 2017,
-                "endMonth": null,
-                "endYear": null
-            }
+            "startMonth": 1,
+            "startYear": 2017,
+            "endMonth": null,
+            "endYear": null
         },
         "dates": "Jan 2016 - present",
         "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"

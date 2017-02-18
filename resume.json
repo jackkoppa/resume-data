@@ -6,17 +6,14 @@
         "title": "Web Developer",
         "location": "Milwaukee, WI, US",
         "date": {
-            "string": "Jan 2017 - present",
-            "obj": {
-                "startMonth": 1,
-                "startYear": 2017,
-                "endMonth": null,
-                "endYear": null
-            }
+            "startMonth": 1,
+            "startYear": 2017,
+            "endMonth": null,
+            "endYear": null
         },
         "currentJob": true,
         "description": "Developing & designing client websites for a variety of purposes. Heavy focus on WordPress development, front-end technologies, and modern design. Work with clients at various points in their process: providing all design and development for sites from scratch, converting mock-ups to full-featured sites, or adding functionality/improving design for existing projects. Focused especially on companies in clean technology & environmental policy, where field-specific knowledge & marketing experience can be best utilized for environmental change.",
-        "relatedURLs": [
+        "urls": [
             "http://jackkoppa.com"
         ]
     },
@@ -25,16 +22,13 @@
         "title": "Program Manager",
         "location": "Shanghai, China",
         "date": {
-            "string": "Sep 2016 - Jan 2017",
-            "obj": {
-                "startMonth": 10,
-                "startYear": 2016,
-                "endMonth": 1,
-                "endYear": 2017
-            }
+            "startMonth": 10,
+            "startYear": 2016,
+            "endMonth": 1,
+            "endYear": 2017
         },
         "description": "Design extracurricular programs for Chinese high school students, akin to experiences at the best US high schools. Create curricula in specific fields (esp. environmental science & web development) and facilitate a capstone project in that field, with a US partner. Provide a valuable int'l experience for our students, and dedicated, bright resources for our American collaborators.",
-        "relatedURLs": [
+        "urls": [
             "http://embarkchina.org/En_US/"
         ]
     },
@@ -43,16 +37,13 @@
         "title": "Contract Web Developer",
         "location": "Milwaukee, WI, US",
         "date": {
-            "string": "May 2016 - Jun 2016",
-            "obj": {
-                "startMonth": 5,
-                "startYear": 2016,
-                "endMonth": 6,
-                "endYear": 2016
-            }
+            "startMonth": 5,
+            "startYear": 2016,
+            "endMonth": 6,
+            "endYear": 2016
         },
         "description": "Served as a senior web developer & consultant for a 3 week period, after the company transitioned to a WordPress site for SEO purposes, but was left with poor functionality, usability, and styling, and wanted to make significant immediate improvements, with future changes moved in-house. In 3 weeks I revamped the site’s design, customized their dashboards, implemented a translation system, developed a full salesperson bio system & personalized contact flow, while training an in-house marketing specialist to make future changes. The international flow, from homepage to info to contact, was a particular priority, and was greatly improved with session/cookie-specific IP recongition, with SEO-compatible local translated sites and salesperson-specific inquiries. The company is very happy with the changes, the in-house marketing specialist able to handle future updates, and online inquiries began rising within a month of completion.",
-        "relatedURLs": [
+        "urls": [
             "http://jackkoppa.com/work/power-test-inc/"
         ]
     },
@@ -61,16 +52,13 @@
         "title": "Web Developer",
         "location": "Los Angeles, CA, US",
         "date": {
-            "string": "Mar 2015 - May 2016",
-            "obj": {
-                "startMonth": 3,
-                "startYear": 2015,
-                "endMonth": 5,
-                "endYear": 2016
-            }
+            "startMonth": 3,
+            "startYear": 2015,
+            "endMonth": 5,
+            "endYear": 2016
         },
         "description": "Developed & designed WordPress event site for the Marshall School's Asia Pacific Business Outlook conference (apboconference.com), creating custom pages for the event's 350+ attendees and 70+ speakers. Also assist with marketing and logistics for the 2 day event, along with other programs for the IBEAR MBA Program at Marshall.",
-        "relatedURLs": [
+        "urls": [
             "http://jackkoppa.com/work/apbo/"
         ]
     },
@@ -79,16 +67,13 @@
         "title": "Web + Research Intern",
         "location": "Los Angeles, CA, US",
         "date": {
-            "string": "Sep 2014 - Jan 2016",
-            "obj": {
-                "startMonth": 10,
-                "startYear": 2014,
-                "endMonth": 1,
-                "endYear": 2016
-            }
+            "startMonth": 10,
+            "startYear": 2014,
+            "endMonth": 1,
+            "endYear": 2016
         },
         "description": "Assisted in the design and development of UCCTC's new, cutting-edge B2B database platform for clean tech companies in the US and China. Worked on primary website (uschinacleantech.org), updating style, content, and functionality, while also assisting with websites for two new projects for the center: the Global Clean Vehicle Summit (globalcleanvehicle.org), and the Greenmaker Space, for Chinese cleantech companies seeking incubation assistance in the US (greenmaker.space). Worked in the bilingual Los Angeles office, while interacting heavily with the Beijing office.",
-        "relatedURLs": [
+        "urls": [
             "http://jackkoppa.com/work/global-clean-vehicle/"
         ]
     },
@@ -97,32 +82,26 @@
         "title": "Web Designer",
         "location": "Los Angeles, CA, US",
         "date": {
-            "string": "Dec 2014 - Dec 2015",
-            "obj": {
-                "startMonth": 12,
-                "startYear": 2014,
-                "endMonth": 12,
-                "endYear": 2015
-            }
+            "startMonth": 12,
+            "startYear": 2014,
+            "endMonth": 12,
+            "endYear": 2015
         },
         "description": "Designed in-house event/conference website (\"the 9th week @ SCA\") using WordPress theme, while making custom adjustments to allow for participant signups, schedule updates, and easy dashboard management of speakers and sessions. In addition, made design & development changes to an interim main website for the Media Arts + Practice department, on a very short timeline required by server changes.",
-        "relatedURLs": []
+        "urls": []
     },
     {
         "employer": "Pentair",
         "title": "Product Management Intern",
         "location": "Milwaukee, WI, US",
         "date": {
-            "string": "May 2013 - Aug 2013",
-            "obj": {
-                "startMonth": 5,
-                "startYear": 2013,
-                "endMonth": 8,
-                "endYear": 2013
-            }
+            "startMonth": 5,
+            "startYear": 2013,
+            "endMonth": 8,
+            "endYear": 2013
         },
         "description": "As a product manager, updated a $2.6 million product line to better serve end consumers, identifying proper use instructions and new corporate branding. In this and other summer projects, worked with virtually all departments in Pentair's Residential, Commercial, & Industrial vertical, including facilities in China & Mexico. Led a a cross-functional team of 5 in Pentair's inaugural Cross-Charge Challenge, developing a complete marketing strategy for a high-potential product, to be implemented over the next year.",
-        "relatedURLs": []
+        "urls": []
     }]
 },
 
@@ -131,13 +110,10 @@
     "projects": [{
         "title": "Chanje",
         "date": {
-            "string": "Jan 2017",
-            "obj": {
-                "startMonth": 1,
-                "startYear": 2017,
-                "endMonth": 1,
-                "endYear": 2017
-            }
+            "startMonth": 1,
+            "startYear": 2017,
+            "endMonth": 1,
+            "endYear": 2017
         },
         "skills": [
             "WordPress",
@@ -161,20 +137,17 @@
             "chanje_key_features.jpg",
             "chanje_connect.jpg"
         ],
-        "relatedURLs": [
+        "urls": [
             "http://chanje.us"
         ]
     },
     {
         "title": "Power Test",
         "date": {
-            "string": "Jun 2016",
-            "obj": {
-                "startMonth": 6,
-                "startYear": 2016,
-                "endMonth": 6,
-                "endYear": 2016
-            }
+            "startMonth": 6,
+            "startYear": 2016,
+            "endMonth": 6,
+            "endYear": 2016
         },
         "skills": [
             "WordPress",
@@ -203,20 +176,17 @@
             "power_test_dyno_accessories.jpg",
             "power_test_we_make_it_better.jpg"
         ],
-        "relatedURLs": [
+        "urls": [
             "http://powertestdyno.com"
         ]
     },
     {
         "title": "PixBox",
         "date": {
-            "string": "Sep 2015 - Dec 2015",
-            "obj": {
-                "startMonth": 9,
-                "startYear": 2015,
-                "endMonth": 12,
-                "endYear": 2015
-            }
+            "startMonth": 9,
+            "startYear": 2015,
+            "endMonth": 12,
+            "endYear": 2015
         },
         "skills": [
             "JavaScript",
@@ -253,45 +223,80 @@
             "pixbox_mobile.jpg",
             "pixbox_new_album.jpg"
         ],
-        "relatedURLs": [
+        "urls": [
         ]
     },
     {
         "title": "FrackMented",
         "date": {
-            "string": "Sep 2015 - Dec 2015",
-            "obj": {
-                "startMonth": 9,
-                "startYear": 2015,
-                "endMonth": 12,
-                "endYear": 2015
-            }
+            "startMonth": 11,
+            "startYear": 2013,
+            "endMonth": 12,
+            "endYear": 2013
         },
         "skills": [
-            "JavaScript",
-            "Backbone.js",
-            "Node.js",
-            "Sass",
-            "Parse",
-            "Git",
-            "Grunt",
             "HTML",
-            "CSS"
+            "CSS",
+            "jQuery",
+            "JavaScript",
+            "Photoshop",
+            "Research"
         ],
         "description": {
-            "short": "Full photo-sharing web application, designed to make group collaboration and editing simple and accessible, with SMS integration and responsive design. Created as a Backbone.js app from scratch, with a team of 4, using a Parse database as the backend",
-            "long": "test"
+            "short": "Contextualizes current \"fracking\" policy issues, using meta-data and a tiled interface. ",
+            "long": [
+                "The power to truly see an issue from many different angles is usually available only to those who intensely research. More casual interest is usually rewarded with a one-sided soundbite or paragraph. Our policy system, however, requires that a large percentage of voters be informed beyond one side of an issue. FrackMented is a look at how such informing could improve.",
+                "The subject of the website is hydraulic fracturing, or “fracking”, a hotly contested process to recover gas/oil from shale rock. The policy approach to fracking is far from settled, so FrackMented aims to be an unbiased, particularly useful source of information. For every story it offers – whether about a fracking victory, or defeat, or mention in popular culture – FrackMented provides at least 3-4 pieces of meta-data, in an easily accessible tiled interface, to help maximize perspective gained while minimizing time. This meta-data includes location on map, relevant state, headline, quick summary, full text, and a related piece of media (picture, video, graph, etc.).",
+                "Surfing the internet’s tides of opinions and information can be particularly difficult when researching a topic with limited time. FrackMented provides a template for dissecting some of the major present day policy issues we face, in a way that can inform and liberate voters."
+            ]
         },
-        "imageDir": "pixbox",
+        "imageDir": "frackmented",
         "images" : [
-            "pixbox_album.jpg",
-            "pixbox_dashboard.jpg",
-            "pixbox_invite_members.jpg",
-            "pixbox_login.jpg",
-            "pixbox_mobile.jpg",
-            "pixbox_new_album.jpg"
+            "frackmented_landing.jpg",
+            "frackmented_layout1.jpg",
+            "frackmented_layout2.jpg"
         ],
-        "relatedURLs": [
+        "urls": [
+            "http://FrackMented.jackkoppa.com",
+            "https://github.com/jackkoppa/FrackMented"
+        ]
+    },
+    {
+        "title": "Peaks and Professors",
+        "date": {
+            "startMonth": 8,
+            "startYear": 2013,
+            "endMonth": 5,
+            "endYear": 2016
+        },
+        "skills": [
+            "WordPress",
+            "PHP",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "jQuery",
+            "JavaScript",
+            "Photoshop"
+        ],
+        "description": {
+            "short": "Created engaging & useful website for one of USC's fastest-growing clubs, leading hikes for students & professors. As co-founder, handled all technical aspects of the club (WordPress website, online payments, event management, MailChimp), growing from 4 trips our first semester, to 30+ each semester by the time of graduation. Site now handles 200+ simultaneous users during trip sign-ups and $6,000+ in annual online transactions; club named USC's Student Organization of the Year for 2016, out of 800+ clubs.",
+            "long": [
+                "Peaks and Professors is a fairly new organization on USC’s campus – with 3 friends, I helped co-found the club in Summer of 2013. Our goal is to lead hikes for small groups of students, around the SoCal area, each time taking along a different USC Professor. This fosters communication outside the classroom, as well as a great appreciation of nature. Immediately, we realized that the best and most convenient communication route for us would be entirely online, almost entirely on our own website.",
+                "I immediately began searching for appropriate design options, and eventually came across Earth 2.0, a theme on ThemeForest that loosely suited our organization’s goals. Since then, I have been customizing, tweaking, dramatically updating, and personalizing our site, in order to accomplish three main goals: club promotion, ease of use by students, and ease of use by club leaders.",
+                "To that end, peaksandprofessors.org has a variety of unique features: an email newsletter sign-up form on most pages, since that is the most important way for us to reach new student members, a calendar of upcoming trips with multiple views, a filter-able list of Professors, and perhaps most importantly, a completely custom backend. This customized dashboard allows any leader in the club to make edits to trip pages with no coding knowledge, while still keeping design consistent across the site.",
+                "These updates have proved quite successful: since that Summer of 2013, up to May 2016, we have had over 80 trips, have 2,000+ email subscribers, and over 1,500 followers on Facebook. Perhaps most impressively, in 2016 Peaks and Professors was named USC's Student Organization of the Year, out of 800+ clubs. The most consistent comment from people who have signed up for the club? “I love the website!”"
+            ]
+        },
+        "imageDir": "peaks_and_professors",
+        "images" : [
+            "peaks_and_professors_dashboard.jpg",
+            "peaks_and_professors_individual_trips.jpg",
+            "peaks_and_professors_trips.jpg"
+        ],
+        "urls": [
+            "http://peaksandprofessors.com",
+            "https://news.usc.edu/99581/no-lectern-no-laptop-no-problem-for-trojans-hiking-on-socals-scenic-trails/"
         ]
     }]
 },
@@ -299,7 +304,7 @@
     "name": "Jack Koppa",
     "role": "Web Developer | Cleantech Advocate",
     "welcomeMessage": "Hi - I make things with a purpose.",
-    "biopic": "images_src/jack_koppa_profile.jpg",
+    "biopic": "jack_koppa_profile.jpg",
     "contacts": {
         "mobile": "+1 650.761.1414",
         "email": "hello@jackkoppa.com",
@@ -312,36 +317,51 @@
         "HTML",
         "CSS",
         "JavaScript",
+        "jQuery",
         "WordPress",
         "PHP",
-        "MySQL",
-        "SCSS",
-        "Grunt",
-        "Backbone.js",
-        "React.js"
+        "Sass",
+        "React.js",
+        "Backbone.js"
     ]
 },
 "education": {
     "schools": [{
         "name": "University of Southern California",
-        "city": "Los Angeles, CA, US",
+        "location": "Los Angeles, CA, US",
         "degree": "BA",
         "major": ["Environmental Studies","Chinese"],
         "minor": ["Digital Studies"],
-        "dates": "Aug 2012 - May 2016",
+        "date": {
+            "startMonth": 8,
+            "startYear": 2012,
+            "endMonth": 5,
+            "endYear": 2016
+        },
         "url": "https://dornsife.usc.edu/"
     },
     {
         "name": "Capital Normal University",
-        "city": "Beijing, China",
+        "location": "Beijing, China",
         "degree": "Study Abroad",
         "major": ["Chinese Language"],
-        "dates": "May 2014 - July 2014",
+        "date": {
+            "startMonth": 5,
+            "startYear": 2014,
+            "endMonth": 7,
+            "endYear": 2014
+        },
         "url": "https://dornsife.usc.edu/ealc/beijing-program/"
     }],
     "onlineCourses": [{
         "title": "Front-End Web Developer Nanodegree",
         "school": "Udacity",
+        "date": {
+            "startMonth": 1,
+            "startYear": 2017,
+            "endMonth": null,
+            "endYear": null
+        },
         "dates": "Jan 2016 - present",
         "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
     }]
