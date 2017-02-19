@@ -14,6 +14,7 @@
   "homepage": "https://github.com/jackkoppa/resume-data#readme",
   "devDependencies": {
     "grunt": "~1.0.0",
+    "grunt-json": "^0.2.0",
     "grunt-jsonlint": "^1.1.0",
     "grunt-strip-json-comments": "^2.2.0"
   }
