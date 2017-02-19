@@ -1,12 +1,83 @@
 var resume = resume || {};
 resume["data"] = {
+  "bio": {
+    "name": "Jack Koppa",
+    "role": "Web Developer | Cleantech Advocate",
+    "welcomeMessage": "Hi - I make things with a purpose.",
+    "biopic": "jack_koppa_profile.jpg",
+    "contacts": {
+      "mobile": "+1 650.761.1414",
+      "email": "hello@jackkoppa.com",
+      "github": "jackkoppa",
+      "twitter": "jackpkoppa",
+      "linkedin": "jackkoppa",
+      "location": "Milwaukee, WI, US"
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "WordPress",
+      "PHP",
+      "Sass",
+      "React.js",
+      "Backbone.js"
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "name": "University of Southern California",
+        "location": "Los Angeles, CA, US",
+        "degree": "BA",
+        "major": [
+          "Environmental Studies",
+          "Chinese"
+        ],
+        "minor": [
+          "Digital Studies"
+        ],
+        "dates": {
+          "startMonth": 8,
+          "startYear": 2012,
+          "endMonth": 5,
+          "endYear": 2016
+        },
+        "url": "https://dornsife.usc.edu/"
+      },
+      {
+        "name": "Capital Normal University",
+        "location": "Beijing, China",
+        "degree": "Study Abroad",
+        "major": [
+          "Chinese Language"
+        ],
+        "dates": {
+          "startMonth": 5,
+          "startYear": 2014,
+          "endMonth": 7,
+          "endYear": 2014
+        },
+        "url": "https://dornsife.usc.edu/ealc/beijing-program/"
+      }
+    ],
+    "onlineCourses": [
+      {
+        "title": "Front-End Web Developer Nanodegree",
+        "school": "Udacity",
+        "dates": "Jan 2016 - present",
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
+      }
+    ]
+  },
   "work": {
     "jobs": [
       {
         "employer": "Self-Employed",
         "title": "Web Developer",
         "location": "Milwaukee, WI, US",
-        "date": {
+        "dates": {
           "startMonth": 1,
           "startYear": 2017,
           "endMonth": null,
@@ -22,7 +93,7 @@ resume["data"] = {
         "employer": "Embark China",
         "title": "Program Manager",
         "location": "Shanghai, China",
-        "date": {
+        "dates": {
           "startMonth": 10,
           "startYear": 2016,
           "endMonth": 1,
@@ -37,7 +108,7 @@ resume["data"] = {
         "employer": "Power Test Inc.",
         "title": "Contract Web Developer",
         "location": "Milwaukee, WI, US",
-        "date": {
+        "dates": {
           "startMonth": 5,
           "startYear": 2016,
           "endMonth": 6,
@@ -52,7 +123,7 @@ resume["data"] = {
         "employer": "USC Marshall School of Business",
         "title": "Web Developer",
         "location": "Los Angeles, CA, US",
-        "date": {
+        "dates": {
           "startMonth": 3,
           "startYear": 2015,
           "endMonth": 5,
@@ -67,7 +138,7 @@ resume["data"] = {
         "employer": "US-China Clean Tech Center",
         "title": "Web + Research Intern",
         "location": "Los Angeles, CA, US",
-        "date": {
+        "dates": {
           "startMonth": 10,
           "startYear": 2014,
           "endMonth": 1,
@@ -82,7 +153,7 @@ resume["data"] = {
         "employer": "USC School of Cinematic Arts",
         "title": "Web Designer",
         "location": "Los Angeles, CA, US",
-        "date": {
+        "dates": {
           "startMonth": 12,
           "startYear": 2014,
           "endMonth": 12,
@@ -95,7 +166,7 @@ resume["data"] = {
         "employer": "Pentair",
         "title": "Product Management Intern",
         "location": "Milwaukee, WI, US",
-        "date": {
+        "dates": {
           "startMonth": 5,
           "startYear": 2013,
           "endMonth": 8,
@@ -110,7 +181,7 @@ resume["data"] = {
     "projects": [
       {
         "title": "Chanje",
-        "date": {
+        "dates": {
           "startMonth": 1,
           "startYear": 2017,
           "endMonth": 1,
@@ -144,7 +215,7 @@ resume["data"] = {
       },
       {
         "title": "Power Test",
-        "date": {
+        "dates": {
           "startMonth": 6,
           "startYear": 2016,
           "endMonth": 6,
@@ -183,7 +254,7 @@ resume["data"] = {
       },
       {
         "title": "PixBox",
-        "date": {
+        "dates": {
           "startMonth": 9,
           "startYear": 2015,
           "endMonth": 12,
@@ -228,7 +299,7 @@ resume["data"] = {
       },
       {
         "title": "FrackMented",
-        "date": {
+        "dates": {
           "startMonth": 11,
           "startYear": 2013,
           "endMonth": 12,
@@ -263,7 +334,7 @@ resume["data"] = {
       },
       {
         "title": "Peaks and Professors",
-        "date": {
+        "dates": {
           "startMonth": 8,
           "startYear": 2013,
           "endMonth": 5,
@@ -298,83 +369,6 @@ resume["data"] = {
           "http://peaksandprofessors.com",
           "https://news.usc.edu/99581/no-lectern-no-laptop-no-problem-for-trojans-hiking-on-socals-scenic-trails/"
         ]
-      }
-    ]
-  },
-  "bio": {
-    "name": "Jack Koppa",
-    "role": "Web Developer | Cleantech Advocate",
-    "welcomeMessage": "Hi - I make things with a purpose.",
-    "biopic": "jack_koppa_profile.jpg",
-    "contacts": {
-      "mobile": "+1 650.761.1414",
-      "email": "hello@jackkoppa.com",
-      "github": "jackkoppa",
-      "twitter": "jackpkoppa",
-      "linkedin": "jackkoppa",
-      "location": "Milwaukee, WI, US"
-    },
-    "skills": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "jQuery",
-      "WordPress",
-      "PHP",
-      "Sass",
-      "React.js",
-      "Backbone.js"
-    ]
-  },
-  "education": {
-    "schools": [
-      {
-        "name": "University of Southern California",
-        "location": "Los Angeles, CA, US",
-        "degree": "BA",
-        "major": [
-          "Environmental Studies",
-          "Chinese"
-        ],
-        "minor": [
-          "Digital Studies"
-        ],
-        "date": {
-          "startMonth": 8,
-          "startYear": 2012,
-          "endMonth": 5,
-          "endYear": 2016
-        },
-        "url": "https://dornsife.usc.edu/"
-      },
-      {
-        "name": "Capital Normal University",
-        "location": "Beijing, China",
-        "degree": "Study Abroad",
-        "major": [
-          "Chinese Language"
-        ],
-        "date": {
-          "startMonth": 5,
-          "startYear": 2014,
-          "endMonth": 7,
-          "endYear": 2014
-        },
-        "url": "https://dornsife.usc.edu/ealc/beijing-program/"
-      }
-    ],
-    "onlineCourses": [
-      {
-        "title": "Front-End Web Developer Nanodegree",
-        "school": "Udacity",
-        "date": {
-          "startMonth": 1,
-          "startYear": 2017,
-          "endMonth": null,
-          "endYear": null
-        },
-        "dates": "Jan 2016 - present",
-        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
       }
     ]
   }
