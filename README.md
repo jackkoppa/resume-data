@@ -20,3 +20,6 @@ Submodules allow commits from within the submodule to affect the child, rather t
 Then, after making changes to the annotated json file, run:
 
 ```grunt compileJS```
+
+## References
+See the [GitHub article](https://github.com/blog/2104-working-with-submodules) on repository dependencies for any questions re: submodules
