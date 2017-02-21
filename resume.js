@@ -23,7 +23,8 @@ resume["data"] = {
       "React.js",
       "Backbone.js"
     ],
-    "biopic": "jack_koppa_profile.jpg"
+    "biopic": "jack_koppa_profile.jpg",
+    "header": "jack_koppa_header.jpg"
   },
   "education": {
     "schools": [
