@@ -29,7 +29,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "Backbone.js"
     ],
     "biopic": "jack_koppa_profile.jpg",
-    "header": "jack_koppa_header.jpg"
+    "headerpic": "jack_koppa_header.jpg"
 },
 
 "education": {
