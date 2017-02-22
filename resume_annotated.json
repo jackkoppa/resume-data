@@ -48,12 +48,13 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "endMonth": 5,
             "endYear": 2016
         },
-        "url": "https://dornsife.usc.edu/",
+        // optional
         "details": [
             "Recipient of Presidential Scholarship (half tuition), FLAS Fellowship, & Renaissance Scholar",
             "Co-Founded Peaks and Professors, USC's 2016 Student Orgnaization of the Year",
             "Graduated Summa Cum Laude"
-        ]
+        ],
+        "url": "https://dornsife.usc.edu/"
     },
     {
         "name": "Capital Normal University",
@@ -66,6 +67,8 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "endMonth": 7,
             "endYear": 2014
         },
+        // optional
+        // "details": [],
         "url": "https://dornsife.usc.edu/ealc/beijing-program/"
     }],
     "onlineCourses": [{
@@ -78,6 +81,8 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "endYear": null
         },
         "dates": "Jan 2016 - present",
+        // optional
+        // "details": [],
         "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
     }]
 },
