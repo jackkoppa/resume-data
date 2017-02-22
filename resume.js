@@ -12,16 +12,18 @@ resume["data"] = {
       "location": "Milwaukee, WI, US"
     },
     "welcomeMessage": "Hi - I make things with a purpose.",
+    "personalSummary": "Love front-end development, clean technology, Chinese, & hiking/backpacking. Graduated from USC in 2016, 4+ years of professional WordPress development, and an array of happy clients. Happy to discuss anything web/environment related - let's talk!",
     "skills": [
+      "WordPress",
       "HTML",
       "CSS",
-      "JavaScript",
       "jQuery",
-      "WordPress",
+      "JavaScript",
       "PHP",
       "Sass",
+      "Backbone.js",
       "React.js",
-      "Backbone.js"
+      "Mandarin Chinese"
     ],
     "biopic": "jack_koppa_profile.jpg",
     "headerpic": "jack_koppa_header.jpg",
