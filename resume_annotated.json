@@ -54,7 +54,10 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "Co-Founded Peaks and Professors, USC's 2016 Student Orgnaization of the Year",
             "Graduated Summa Cum Laude"
         ],
-        "url": "https://dornsife.usc.edu/"
+        "url": "https://dornsife.usc.edu/",
+        "imgDir": "usc",
+        // this is a large svg file. There is a slightly smaller png file also available, but has small dimensions (350px)
+        "logo": "university_of_southern_california_logo.svg"
     },
     {
         "name": "Capital Normal University",
@@ -69,7 +72,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         },
         // optional
         // "details": [],
-        "url": "https://dornsife.usc.edu/ealc/beijing-program/"
+        "url": "https://dornsife.usc.edu/ealc/beijing-program/",
+        "imgDir": "cnu",
+        "logo": "capital_normal_university_logo.svg"
     }],
     "onlineCourses": [{
         "title": "Front-End Web Developer Nanodegree",
@@ -83,7 +88,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "dates": "Jan 2016 - present",
         // optional
         // "details": [],
-        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
+        "imgDir": "udacity",
+        "logo": "udacity_logo.svg"
     }]
 },
 

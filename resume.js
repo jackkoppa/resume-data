@@ -53,7 +53,9 @@ resume["data"] = {
           "Co-Founded Peaks and Professors, USC's 2016 Student Orgnaization of the Year",
           "Graduated Summa Cum Laude"
         ],
-        "url": "https://dornsife.usc.edu/"
+        "url": "https://dornsife.usc.edu/",
+        "imgDir": "usc",
+        "logo": "university_of_southern_california_logo.svg"
       },
       {
         "name": "Capital Normal University",
@@ -68,7 +70,9 @@ resume["data"] = {
           "endMonth": 7,
           "endYear": 2014
         },
-        "url": "https://dornsife.usc.edu/ealc/beijing-program/"
+        "url": "https://dornsife.usc.edu/ealc/beijing-program/",
+        "imgDir": "cnu",
+        "logo": "capital_normal_university_logo.svg"
       }
     ],
     "onlineCourses": [
@@ -76,7 +80,9 @@ resume["data"] = {
         "title": "Front-End Web Developer Nanodegree",
         "school": "Udacity",
         "dates": "Jan 2016 - present",
-        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
+        "imgDir": "udacity",
+        "logo": "udacity_logo.svg"
       }
     ]
   },
