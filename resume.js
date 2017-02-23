@@ -79,7 +79,12 @@ resume["data"] = {
       {
         "title": "Front-End Web Developer Nanodegree",
         "school": "Udacity",
-        "dates": "Jan 2016 - present",
+        "dates": {
+          "startMonth": 1,
+          "startYear": 2017,
+          "endMonth": null,
+          "endYear": null
+        },
         "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
         "imgDir": "udacity",
         "logo": "udacity_logo.svg"

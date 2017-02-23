@@ -85,7 +85,6 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "endMonth": null,
             "endYear": null
         },
-        "dates": "Jan 2016 - present",
         // optional
         // "details": [],
         "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
