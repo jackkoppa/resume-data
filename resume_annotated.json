@@ -55,7 +55,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "Graduated Summa Cum Laude"
         ],
         "url": "https://dornsife.usc.edu/",
-        "imgDir": "usc",
+        "imgDir": "usc/",
         // this is a large svg file. There is a slightly smaller png file also available, but has small dimensions (350px)
         "logo": "university_of_southern_california_logo.svg"
     },
@@ -73,7 +73,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         // optional
         // "details": [],
         "url": "https://dornsife.usc.edu/ealc/beijing-program/",
-        "imgDir": "cnu",
+        "imgDir": "cnu/",
         "logo": "capital_normal_university_logo.svg"
     }],
     "onlineCourses": [{
@@ -88,7 +88,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         // optional
         // "details": [],
         "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
-        "imgDir": "udacity",
+        "imgDir": "udacity/",
         "logo": "udacity_logo.svg"
     }]
 },
@@ -107,7 +107,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "description": "Developing & designing client websites for a variety of purposes. Heavy focus on WordPress development, front-end technologies, and modern design. Work with clients at various points in their process: providing all design and development for sites from scratch, converting mock-ups to full-featured sites, or adding functionality/improving design for existing projects. Focused especially on companies in clean technology & environmental policy, where field-specific knowledge & marketing experience can be best utilized for environmental change.",
         "urls": [
             "http://jackkoppa.com"
-        ]
+        ],
+        "imgDir": null,
+        "logo": "jack_koppa_logo.svg"
     },
     {// Embark China
         "employer": "Embark China",
@@ -122,7 +124,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "description": "Design extracurricular programs for Chinese high school students, akin to experiences at the best US high schools. Create curricula in specific fields (esp. environmental science & web development) and facilitate a capstone project in that field, with a US partner. Provide a valuable int'l experience for our students, and dedicated, bright resources for our American collaborators.",
         "urls": [
             "http://embarkchina.org/En_US/"
-        ]
+        ],
+        "imgDir": "embark/",
+        "logo": "embark_china_logo"
     },
     {// Power Test Inc.
         "employer": "Power Test Inc.",
@@ -137,7 +141,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "description": "Served as a senior web developer & consultant for a 3 week period, after the company transitioned to a WordPress site for SEO purposes, but was left with poor functionality, usability, and styling, and wanted to make significant immediate improvements, with future changes moved in-house. In 3 weeks I revamped the site’s design, customized their dashboards, implemented a translation system, developed a full salesperson bio system & personalized contact flow, while training an in-house marketing specialist to make future changes. The international flow, from homepage to info to contact, was a particular priority, and was greatly improved with session/cookie-specific IP recongition, with SEO-compatible local translated sites and salesperson-specific inquiries. The company is very happy with the changes, the in-house marketing specialist able to handle future updates, and online inquiries began rising within a month of completion.",
         "urls": [
             "http://jackkoppa.com/work/power-test-inc/"
-        ]
+        ],
+        "imgDir": "power_test/",
+        "logo": "power_test_logo.svg"
     },
     {// USC Marshall School of Business
         "employer": "USC Marshall School of Business",
@@ -152,7 +158,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "description": "Developed & designed WordPress event site for the Marshall School's Asia Pacific Business Outlook conference (apboconference.com), creating custom pages for the event's 350+ attendees and 70+ speakers. Also assist with marketing and logistics for the 2 day event, along with other programs for the IBEAR MBA Program at Marshall.",
         "urls": [
             "http://jackkoppa.com/work/apbo/"
-        ]
+        ],
+        "imgDir": "usc/",
+        "logo": "usc_marshall_school_of_business_logo.svg"
     },
     {// US-China Clean Tech Center
         "employer": "US-China Clean Tech Center",
@@ -167,7 +175,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "description": "Assisted in the design and development of UCCTC's new, cutting-edge B2B database platform for clean tech companies in the US and China. Worked on primary website (uschinacleantech.org), updating style, content, and functionality, while also assisting with websites for two new projects for the center: the Global Clean Vehicle Summit (globalcleanvehicle.org), and the Greenmaker Space, for Chinese cleantech companies seeking incubation assistance in the US (greenmaker.space). Worked in the bilingual Los Angeles office, while interacting heavily with the Beijing office.",
         "urls": [
             "http://jackkoppa.com/work/global-clean-vehicle/"
-        ]
+        ],
+        "imgDir": "ucctc/",
+        "logo": "us_china_clean_tech_center_logo.svg"
     },
     {// USC School of Cinematic Arts
         "employer": "USC School of Cinematic Arts",
@@ -180,7 +190,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "endYear": 2015
         },
         "description": "Designed in-house event/conference website (\"the 9th week @ SCA\") using WordPress theme, while making custom adjustments to allow for participant signups, schedule updates, and easy dashboard management of speakers and sessions. In addition, made design & development changes to an interim main website for the Media Arts + Practice department, on a very short timeline required by server changes.",
-        "urls": []
+        "urls": [],
+        "imgDir": "usc/",
+        "logo": "usc_school_of_cinematic_arts_logo.svg"
     },
     {// Pentair
         "employer": "Pentair",
@@ -193,7 +205,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "endYear": 2013
         },
         "description": "As a product manager, updated a $2.6 million product line to better serve end consumers, identifying proper use instructions and new corporate branding. In this and other summer projects, worked with virtually all departments in Pentair's Residential, Commercial, & Industrial vertical, including facilities in China & Mexico. Led a a cross-functional team of 5 in Pentair's inaugural Cross-Charge Challenge, developing a complete marketing strategy for a high-potential product, to be implemented over the next year.",
-        "urls": []
+        "urls": [],
+        "imgDir": "pentair/",
+        "logo": "pentair_logo.svg"
     }]
 },
 
@@ -223,7 +237,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "short": "Commercial electric vehicle company launching their product line, and needed a professional, modern site to explain mission, team, and upcoming product line. Worked with Chanje's marketing team according to rough design guidelines, picked Zephyr WordPress theme as a base, and created Home, About, Team, Impact, Purpose, and Contact pages, as well as a Product template and form integration for customers to make vehicle reservations. Continuing to work with Chanje as functionality and available models increase, focusing on conveying the message of low-emission vehicles for the commercial market.",
             "long": null
         },
-        "imgDir": "chanje",
+        "imgDir": "chanje/",
         "images" : [
             "chanje_home.jpg",
             "chanje_models.jpg",
@@ -263,7 +277,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
                 "The last aspect of the work was training the in-house marketing specialist to handle future updates. Peter had some web design experience previously, but was able to quickly pick up the basics of server-database-dashboard, the various essential files for a WordPress theme, and the flow of information that determines what displays on each important page. With this training, Peter has been able to continue making updates to the site, upper management is very excited to be free of an outside agency that wasn’t working for them, and most importantly, inquiries through the site have increased 200% at this point."
             ]
         },
-        "imgDir": "power_test",
+        "imgDir": "power_test/",
         "images" : [
             "power_test_industries.jpg",
             "power_test_contact.jpg",
@@ -309,7 +323,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
                 "(PixBox is currently still private, but if you would like to view the app itself, please don’t hesitate to get in touch, and I’d be happy to provide a link/code samples)"
             ]
         },
-        "imgDir": "pixbox",
+        "imgDir": "pixbox/",
         "images" : [
             "pixbox_album.jpg",
             "pixbox_dashboard.jpg",
@@ -345,7 +359,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
                 "Surfing the internet’s tides of opinions and information can be particularly difficult when researching a topic with limited time. FrackMented provides a template for dissecting some of the major present day policy issues we face, in a way that can inform and liberate voters."
             ]
         },
-        "imgDir": "frackmented",
+        "imgDir": "frackmented/",
         "images" : [
             "frackmented_landing.jpg",
             "frackmented_layout1.jpg",
@@ -383,7 +397,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
                 "These updates have proved quite successful: since that Summer of 2013, up to May 2016, we have had over 80 trips, have 2,000+ email subscribers, and over 1,500 followers on Facebook. Perhaps most impressively, in 2016 Peaks and Professors was named USC's Student Organization of the Year, out of 800+ clubs. The most consistent comment from people who have signed up for the club? “I love the website!”"
             ]
         },
-        "imgDir": "peaks_and_professors",
+        "imgDir": "peaks_and_professors/",
         "images" : [
             "peaks_and_professors_dashboard.jpg",
             "peaks_and_professors_individual_trips.jpg",
