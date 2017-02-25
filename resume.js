@@ -107,7 +107,7 @@ resume["data"] = {
         "urls": [
           "http://jackkoppa.com"
         ],
-        "imgDir": null,
+        "imgDir": "",
         "logo": "jack_koppa_logo.svg"
       },
       {

@@ -108,7 +108,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
         "urls": [
             "http://jackkoppa.com"
         ],
-        "imgDir": null,
+        "imgDir": "",
         "logo": "jack_koppa_logo.svg"
     },
     {// Embark China
