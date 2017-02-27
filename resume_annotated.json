@@ -126,7 +126,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "http://embarkchina.org/En_US/"
         ],
         "imgDir": "embark/",
-        "logo": "embark_china_logo"
+        "logo": "embark_china_logo.svg"
     },
     {// Power Test Inc.
         "employer": "Power Test Inc.",
@@ -143,7 +143,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "http://jackkoppa.com/work/power-test-inc/"
         ],
         "imgDir": "power_test/",
-        "logo": "power_test_logo.svg"
+        "logo": "power_test_inc_logo.svg"
     },
     {// USC Marshall School of Business
         "employer": "USC Marshall School of Business",
@@ -160,6 +160,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "http://jackkoppa.com/work/apbo/"
         ],
         "imgDir": "usc/",
+        // this is a slightly larger svg file. There is a small png file also available, but has small dimensions (350px)
         "logo": "usc_marshall_school_of_business_logo.svg"
     },
     {// US-China Clean Tech Center
@@ -177,6 +178,9 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
             "http://jackkoppa.com/work/global-clean-vehicle/"
         ],
         "imgDir": "ucctc/",
+        // this is a slightly larger svg file, with a cropped logo. There are two alternatives:
+            // A small png file, with the same name
+            // A full, even larger svg, that has the full logo, named "us_china_clean_tech_center_logo_full.svg"
         "logo": "us_china_clean_tech_center_logo.svg"
     },
     {// USC School of Cinematic Arts

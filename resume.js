@@ -125,7 +125,7 @@ resume["data"] = {
           "http://embarkchina.org/En_US/"
         ],
         "imgDir": "embark/",
-        "logo": "embark_china_logo"
+        "logo": "embark_china_logo.svg"
       },
       {
         "employer": "Power Test Inc.",
@@ -142,7 +142,7 @@ resume["data"] = {
           "http://jackkoppa.com/work/power-test-inc/"
         ],
         "imgDir": "power_test/",
-        "logo": "power_test_logo.svg"
+        "logo": "power_test_inc_logo.svg"
       },
       {
         "employer": "USC Marshall School of Business",
