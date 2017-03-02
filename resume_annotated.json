@@ -39,7 +39,7 @@ Upon saving, run `grunt json`, which will remove comments & lint new file
     "schools": [{
         "name": "University of Southern California",
         "location": "Los Angeles, CA, US",
-        "degree": "BA",
+        "degree": "B.A.",
         "major": ["Environmental Studies","Chinese"],
         "minor": ["Digital Studies"],
         "dates": {

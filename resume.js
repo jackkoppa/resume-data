@@ -34,7 +34,7 @@ resume["data"] = {
       {
         "name": "University of Southern California",
         "location": "Los Angeles, CA, US",
-        "degree": "BA",
+        "degree": "B.A.",
         "major": [
           "Environmental Studies",
           "Chinese"
