@@ -104,11 +104,14 @@ resume["data"] = {
           "endYear": null
         },
         "description": "Developing & designing client websites for a variety of purposes. Heavy focus on WordPress development, front-end technologies, and modern design. Work with clients at various points in their process: providing all design and development for sites from scratch, converting mock-ups to full-featured sites, or adding functionality/improving design for existing projects. Focused especially on companies in clean technology & environmental policy, where field-specific knowledge & marketing experience can be best utilized for environmental change.",
-        "urls": [
-          "http://jackkoppa.com"
-        ],
+        "urls": {
+          "companySite": {
+            "siteType": "Portfolio",
+            "url": "http://jackkoppa.com"
+          }
+        },
         "imgDir": "",
-        "logo": "jack_koppa_logo.svg"
+        "logo": "jack_koppa_logo_square.svg"
       },
       {
         "employer": "Embark China",
@@ -121,9 +124,12 @@ resume["data"] = {
           "endYear": 2017
         },
         "description": "Design extracurricular programs for Chinese high school students, akin to experiences at the best US high schools. Create curricula in specific fields (esp. environmental science & web development) and facilitate a capstone project in that field, with a US partner. Provide a valuable int'l experience for our students, and dedicated, bright resources for our American collaborators.",
-        "urls": [
-          "http://embarkchina.org/En_US/"
-        ],
+        "urls": {
+          "companySite": {
+            "siteType": "Agency",
+            "url": "http://embarkchina.org/En_US/"
+          }
+        },
         "imgDir": "embark/",
         "logo": "embark_china_logo.svg"
       },
@@ -138,9 +144,16 @@ resume["data"] = {
           "endYear": 2016
         },
         "description": "Served as a senior web developer & consultant for a 3 week period, after the company transitioned to a WordPress site for SEO purposes, but was left with poor functionality, usability, and styling, and wanted to make significant immediate improvements, with future changes moved in-house. In 3 weeks I revamped the site’s design, customized their dashboards, implemented a translation system, developed a full salesperson bio system & personalized contact flow, while training an in-house marketing specialist to make future changes. The international flow, from homepage to info to contact, was a particular priority, and was greatly improved with session/cookie-specific IP recongition, with SEO-compatible local translated sites and salesperson-specific inquiries. The company is very happy with the changes, the in-house marketing specialist able to handle future updates, and online inquiries began rising within a month of completion.",
-        "urls": [
-          "http://jackkoppa.com/work/power-test-inc/"
-        ],
+        "urls": {
+          "companySite": {
+            "siteType": "Agency",
+            "url": "http://powertestdyno.com/"
+          },
+          "projectSite": {
+            "siteType": "Project",
+            "url": "http://jackkoppa.com/work/power-test-inc/"
+          }
+        },
         "imgDir": "power_test/",
         "logo": "power_test_inc_logo.svg"
       },
@@ -155,9 +168,16 @@ resume["data"] = {
           "endYear": 2016
         },
         "description": "Developed & designed WordPress event site for the Marshall School's Asia Pacific Business Outlook conference (apboconference.com), creating custom pages for the event's 350+ attendees and 70+ speakers. Also assist with marketing and logistics for the 2 day event, along with other programs for the IBEAR MBA Program at Marshall.",
-        "urls": [
-          "http://jackkoppa.com/work/apbo/"
-        ],
+        "urls": {
+          "companySite": {
+            "siteType": "Department",
+            "url": "https://www.marshall.usc.edu/ibear"
+          },
+          "projectSite": {
+            "siteType": "Project",
+            "url": "http://jackkoppa.com/work/apbo/"
+          }
+        },
         "imgDir": "usc/",
         "logo": "usc_marshall_school_of_business_logo.svg"
       },
@@ -172,9 +192,16 @@ resume["data"] = {
           "endYear": 2016
         },
         "description": "Assisted in the design and development of UCCTC's new, cutting-edge B2B database platform for clean tech companies in the US and China. Worked on primary website (uschinacleantech.org), updating style, content, and functionality, while also assisting with websites for two new projects for the center: the Global Clean Vehicle Summit (globalcleanvehicle.org), and the Greenmaker Space, for Chinese cleantech companies seeking incubation assistance in the US (greenmaker.space). Worked in the bilingual Los Angeles office, while interacting heavily with the Beijing office.",
-        "urls": [
-          "http://jackkoppa.com/work/global-clean-vehicle/"
-        ],
+        "urls": {
+          "companySite": {
+            "siteType": "Company",
+            "url": "http://en.uschinacleantech.org.cn/"
+          },
+          "projectSite": {
+            "siteType": "Project",
+            "url": "http://jackkoppa.com/work/global-clean-vehicle/"
+          }
+        },
         "imgDir": "ucctc/",
         "logo": "us_china_clean_tech_center_logo.svg"
       },
@@ -189,7 +216,12 @@ resume["data"] = {
           "endYear": 2015
         },
         "description": "Designed in-house event/conference website (\"the 9th week @ SCA\") using WordPress theme, while making custom adjustments to allow for participant signups, schedule updates, and easy dashboard management of speakers and sessions. In addition, made design & development changes to an interim main website for the Media Arts + Practice department, on a very short timeline required by server changes.",
-        "urls": [],
+        "urls": {
+          "companySite": {
+            "siteType": "Department",
+            "url": "http://map.usc.edu/"
+          }
+        },
         "imgDir": "usc/",
         "logo": "usc_school_of_cinematic_arts_logo.svg"
       },
@@ -204,7 +236,12 @@ resume["data"] = {
           "endYear": 2013
         },
         "description": "As a product manager, updated a $2.6 million product line to better serve end consumers, identifying proper use instructions and new corporate branding. In this and other summer projects, worked with virtually all departments in Pentair's Residential, Commercial, & Industrial vertical, including facilities in China & Mexico. Led a a cross-functional team of 5 in Pentair's inaugural Cross-Charge Challenge, developing a complete marketing strategy for a high-potential product, to be implemented over the next year.",
-        "urls": [],
+        "urls": {
+          "companySite": {
+            "siteType": "Company",
+            "url": "https://www.pentair.com/"
+          }
+        },
         "imgDir": "pentair/",
         "logo": "pentair_logo.svg"
       }
